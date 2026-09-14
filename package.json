@@ -1,0 +1,20 @@
+{
+  "name": "react-geiger",
+  "version": "0.1.0",
+  "description": "A fast architectural smoke detector for React codebases.",
+  "type": "module",
+  "bin": {
+    "react-geiger": "./react-geiger.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "react",
+    "semgrep",
+    "static-analysis",
+    "architecture",
+    "code-review"
+  ],
+  "license": "MIT"
+}
